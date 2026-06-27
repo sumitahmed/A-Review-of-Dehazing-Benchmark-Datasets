@@ -9,3 +9,4 @@
 | SateHaze1K | Huang, B., Li, Z., Yang, C., Sun, F., & Song, Y. (2020). *Single Satellite Optical Imagery Dehazing Using SAR Image Prior Based on Conditional GANs*. WACV 2020. | https://www.kaggle.com/datasets/mohit3430/haze1k |
 | RS-Haze | Zhu, Z.-H., Lu, W., Chen, S.-B., Ding, C. H. Q., Tang, J., & Luo, B. (2025). *Real-World Remote Sensing Image Dehazing: Benchmark and Baseline*. IEEE Transactions on Geoscience and Remote Sensing. | https://www.kaggle.com/datasets/lxfbystander/rs-haze-dataset |
 | BeDDE | Zhao, S., Zhang, L., Huang, S., Shen, Y., Zhao, S., & Yang, Y. (2019). *Evaluation of Defogging: A Real-World Benchmark Dataset, A New Criterion and Baselines*. ICME 2019. | https://github.com/xiaofeng94/BeDDE-for-defogging |
+ 
