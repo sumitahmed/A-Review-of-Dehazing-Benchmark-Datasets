@@ -1,6 +1,6 @@
 | Dataset | Citation | Link |
 |----------|----------|------|
-| RESIDE-6K | Song, Y., He, Z., Qian, H., & Du, X. (2023) *Vision Transformers for Single Image Dehazing*. IEEE Transactions on Image Processing. | https://www.kaggle.com/datasets/kmljts/reside-6k |
+| RESIDE-6K | Song, Y., He, Z., Qian, H., & Du, X. (2023). *Vision Transformers for Single Image Dehazing*. IEEE Transactions on Image Processing. | https://www.kaggle.com/datasets/kmljts/reside-6k |
 | RESIDE-ITS | Li, B., Ren, W., Fu, D., Tao, D., Feng, D., Zeng, W., & Wang, Z. (2018). *Benchmarking Single-Image Dehazing and Beyond*. IEEE Transactions on Image Processing, 28(1), 492–505. | https://www.kaggle.com/datasets/balraj98/indoor-training-set-its-residestandard |
 | O-HAZE | Ancuti, C. O., Ancuti, C., Timofte, R., & De Vleeschouwer, C. (2018). *O-HAZE: A Dehazing Benchmark with Real Hazy and Haze-Free Outdoor Images*. IEEE/CVF CVPR Workshops. | https://www.kaggle.com/datasets/philiphofmann/o-haze |
 | I-HAZE | Ancuti, C., Ancuti, C. O., Timofte, R., & De Vleeschouwer, C. (2018). *I-HAZE: A Dehazing Benchmark with Real Hazy and Haze-Free Indoor Images*. ACIVS 2018. | https://www.kaggle.com/datasets/litheshshetty/i-haze |
